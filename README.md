@@ -21,3 +21,6 @@ This project is a straightforward decentralized application (dApp) that creates 
 - pip (Python package installer)
 - Solidity compiler (`solc`)
 - Node.js and npm (for running a local blockchain, e.g., Ganache)
+
+Below are images of the simulator:
+

@@ -24,3 +24,6 @@ This project is a straightforward decentralized application (dApp) that creates 
 
 Below are images of the simulator:
 
+![tv1](https://github.com/Syedz68/Trust-Vote/assets/107263740/1f5f277e-b755-4495-8ee0-9a014f57f823)
+![tv2](https://github.com/Syedz68/Trust-Vote/assets/107263740/e1ed80bf-8289-4862-8fba-2da41921a9fc)
+![tv3](https://github.com/Syedz68/Trust-Vote/assets/107263740/8b31fe69-5991-450f-b2cd-0667e58d9063)
